@@ -5,3 +5,4 @@ My submission for Srijan 22 Vol.12 (the annual departmental magazine of Departme
 
 - [Read Article](https://github.com/joshidipesh12/srijan22-deepfake-detection/blob/main/Srijan%20-%20D%2052249.md)
 - [Read Magazine](http://cs.du.ac.in/students/student-activities/srijan/)
+- [Final Minimal Version](https://github.com/joshidipesh12/srijan22-deepfake-detection/blob/main/Minimal_Version)
